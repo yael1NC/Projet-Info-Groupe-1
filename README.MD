@@ -30,3 +30,7 @@ Phrase choc à l'écran, en grand :
 "La nourriture calédonienne rassemble."
 Fondu au noir.
  
+###REMARQUES###
+
+-enlever une des deux photos ou les deux se regardent
+-garder la musique joyeuse pour la fin de la video
